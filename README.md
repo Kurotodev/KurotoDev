@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Mexico/Canada I have 2 nationalitys</h3>
+<h3 align="center">A passionate frontend/backend developer from Mexico/Canada I have 2 nationalitys</h3>
 
 - 🌱 I’m currently learning **C# C++**
 
