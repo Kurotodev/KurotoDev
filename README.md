@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kuro_to_shiro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuro_to_shiro_" height="30" width="40" /></a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kuro_to_shiro_" height="30" width="40" />kur0te</a>
+<a href="https://discord.gg/YVpeh69A38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kuro_to_shiro_" height="30" width="40" />kur0te</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
