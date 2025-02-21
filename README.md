@@ -2,7 +2,7 @@
 
 - <img src="https://24.media.tumblr.com/a8d91d9d6f197e126351464305f75dd7/tumblr_msitq5qMwW1sg2d49o1_1280.gif" alt="sqlite" width="40" height="40"/> I’m currently learning **C# C++**
 
-- 💬 Ask me about **JS, HMTL, CSS, PYTHON, JAVA, LUA, MYSQL, PHP, NODE.JS**
+- 💬 Ask me about **JS, HMTL, CSS, PYTHON, JAVA, LUA, MYSQL, PHP, NODE.JS, SQLSERVER**
 
 - 📫 How to reach me **kurotodev@gmail.com**
 
