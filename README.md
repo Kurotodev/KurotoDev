@@ -1,15 +1,15 @@
-<h3 align="center">A passionate frontend/backend developer from Mexico/Canada I have 2 nationalities</h3>
+<h3 align="center">A passionate frontend/backend developer from Mexico/Canada</h3>
 
-- <img src="https://24.media.tumblr.com/a8d91d9d6f197e126351464305f75dd7/tumblr_msitq5qMwW1sg2d49o1_1280.gif" alt="sqlite" width="40" height="40"/> I’m currently learning **C# C++**
+- <img src="https://24.media.tumblr.com/a8d91d9d6f197e126351464305f75dd7/tumblr_msitq5qMwW1sg2d49o1_1280.gif" alt="sqlite" width="40" height="40"/>**
 
-- 💬 Ask me about **JS, HMTL, CSS, PYTHON, JAVA, LUA, MYSQL, PHP, NODE.JS, SQLSERVER**
+- 💬 Ask me about **C#, C++, JAVASCRIPT, HMTL, CSS, PYTHON, JAVA, LUA, MYSQL, PHP, NODE.JS, SQLSERVER**
 
 - 📫 How to reach me **kurotodev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/kuro_to_shiro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuro_to_shiro_" height="30" width="40" /></a>
-<a href="https://discord.gg/vjYzHfGJH8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kuro_to_shiro_" height="30" width="40" />kurotodev</a>
+<a href="https://discord.gg/AjhhfKbDFH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kuro_to_shiro_" height="30" width="40" />kurotodev</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
