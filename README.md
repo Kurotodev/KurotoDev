@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは 👋 I'm Kuro</h1>
-<p align="center">Full-Stack Dev · Cloudflare Workers · Reverse Engineering & Offsets</p>
+<p align="center">Full-Stack Dev</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AjhhfKbDFH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kuro_to_shiro_)
