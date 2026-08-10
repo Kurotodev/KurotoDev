@@ -1,6 +1,3 @@
-<div style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:#000;z-index:2147483647;"></div>
-
-
 <h1 align="center">Hi, I'm Kuro 👋</h1>
 <p align="center">
   <b>Full-Stack Developer</b> · <b>Edge Computing (Cloudflare Workers)</b> · <b>Low-Level & Security Research</b>
